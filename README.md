@@ -3,7 +3,7 @@ Working as ML/Mlops engineer for Qualcomm(client location),<br>Working for: Trum
 
 
 ## 🌐 Socials:
-Email :viveik16693@gmail.com
+Email :viveik16693@gmail.com/
 linkedin: https://www.linkedin.com/in/vivek-kr-yadav-1800132b0/ 
 
 # 💻 Tech Stack:
